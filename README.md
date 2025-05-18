@@ -82,13 +82,13 @@ Power BI · Power Query · DAX
 ## 💡 Áreas de Interés
 
 **🧠 Ciencia de Datos**  
-Descubrir patrones, generar predicciones y tomar decisiones con base en datos y modelos de ML.
+Me interesa mucho descubrir patrones, generar predicciones y tomar decisiones con base en datos y modelos de ML.
 
 **🎮 Desarrollo de Videojuegos**  
-Fusiono lógica y creatividad para construir experiencias interactivas que entretengan y reten al usuario.
+Estoy interesado en fusionar lógica y creatividad para construir experiencias interactivas que entretengan y reten al usuario.
 
 **🔧 Desarrollo Backend**  
-Construyo APIs eficientes y sistemas escalables centrados en rendimiento y calidad de código.
+Me atrae construir APIs eficientes y sistemas escalables centrados en rendimiento y calidad de código.
 
 **🔐 Ciberseguridad**  
 Me apasiona aprender sobre protección de datos, análisis de vulnerabilidades y prácticas seguras de desarrollo.
